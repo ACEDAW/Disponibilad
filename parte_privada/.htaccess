@@ -1,0 +1,4 @@
+AuthName "Identifiquese Muchachote usuario y contraeña sino fuera de aqui"
+AuthUserFile D:\xampp\apache\htdocs\repositorios\pr101\parte_privada\.htpasswd 
+Require valid-user
+AuthType Basic

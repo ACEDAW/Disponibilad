@@ -1,0 +1,22 @@
+Proyecto en localhost -->
+
+Usuario : andres
+Contraseña: andres123
+
+Servidor usuario para entrar
+
+Usuario --> jdaw
+Contraseña --> daw
+
+Para entrar en la base de datos 
+
+Usuario --> jdaw 
+Contraseña --> jdawAlzago@1
+
+usuario --> root 
+Contraseña --> "esta vacia"
+
+Para entrar en el proyecto en la parte privada / login
+
+Usuario --> jdaw
+Contraseña --> daw

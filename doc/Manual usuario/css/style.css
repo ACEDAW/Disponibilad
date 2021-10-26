@@ -1,0 +1,124 @@
+*
+{
+    box-sizing: border-box;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+body
+{
+    border:1px solid rgb(134, 131, 131);
+    border-radius: 5%;
+}
+
+.portada
+{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.alias
+{
+    width: 20%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.imagen
+{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.indice
+{
+    margin-top: 2%;
+    width: 90%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.introduccion
+{
+    margin-top: 2%;
+    width: 90%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+
+
+.como_funciona
+{
+    margin-top: 2%;
+    width: 90%;
+    text-align: center;
+}
+
+footer
+{
+    display: flex;
+    justify-content: space-between;
+    bottom: 0;
+    text-align: justify;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.parte_privada
+{
+    margin-top: 2%;
+    width: 90%;
+    text-align: center;
+}
+
+.registrar_empleado
+{
+    margin-top: 3%;
+    width: 90%;
+    text-align: center;
+}
+
+.anadir_falta
+{
+    margin-top: 3%;
+    width: 90%;
+    text-align: center;
+}
+
+.quitar_falta
+{
+    margin-top: 3%;
+    width: 90%;
+    text-align: center;
+}
+
+.editar_empleado
+{
+    margin-top: 3%;
+    width: 90%;
+    text-align: center;
+}
+
+.reactivar_empleado
+{
+    margin-top: 3%;
+    width: 90%;
+    text-align: center;
+}
+.ver_faltas
+{
+    margin-top: 3%;
+    width: 90%;
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+}
